@@ -21,5 +21,5 @@ figlet -f Bloody figlet-fonts
 
 ### More Fonts:
 1. http://www.figlet.org/fontdb.cgi
-2. https://github.com/xero/figlet-fonts  **Source for above fonts**
-3. https://patorjk.com/software/taag/#p=about&f=Graffiti&t=Type%20Something%20
+2. https://github.com/xero/figlet-fonts  (Source for above fonts)
+3. https://patorjk.com/software/taag/#p=about&f=Graffiti&t=Type%20Something%20  (Source for above fonts)
